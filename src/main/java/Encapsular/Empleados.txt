@@ -1,0 +1,2 @@
+Nombre: Juan perez, Edad: 30, Departamento: Ventas, Salario: 2500.0, id: 1
+Nombre: Maria Lopez, Edad: 35, Departamento: Marketing, Salario: 2500.0, id: 2

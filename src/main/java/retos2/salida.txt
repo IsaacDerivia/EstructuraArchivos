@@ -1,0 +1,8 @@
+Maximo teorico de DR para este bloque: 5
+DR simulados para este bloque: 4
+Maximo teorico de DR para este bloque: 7
+DR simulados para este bloque: 4
+Maximo teorico de DR para este bloque: 6
+DR simulados para este bloque: 5
+Maximo teorico de DR para este bloque: 0
+DR simulados para este bloque: 0
