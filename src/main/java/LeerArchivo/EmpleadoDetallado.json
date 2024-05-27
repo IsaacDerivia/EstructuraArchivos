@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Perez",
+    "edad": 30,
+    "puesto": "Gerente",
+    "direccion": {
+      "calle": "Calle 123",
+      "ciudad": "Ciudad A",
+      "codigo_postal": "12345"
+    },
+    "contacto": {
+      "telefono": "123-456-7890",
+      "correo": "juan@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "María López",
+    "edad": 25,
+    "puesto": "Asistente",
+    "direccion": {
+      "calle": "Avenida Principal",
+      "ciudad": "Ciudad B",
+      "codigo_postal": "54321"
+    },
+    "contacto": {
+      "telefono": "987-654-3210",
+      "correo": "maria@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos García",
+    "edad": 35,
+    "puesto": "Desarrollador",
+    "direccion": {
+      "calle": "Calle Central",
+      "ciudad": "Ciudad C",
+      "codigo_postal": "67890"
+    },
+    "contacto": {
+      "telefono": "555-555-5555",
+      "correo": "carlos@example.com"
+    }
+  }
+]
